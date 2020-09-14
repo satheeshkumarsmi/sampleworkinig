@@ -31,6 +31,9 @@ public class ReceiveController {
 		map.put("role","administrator");
 		return map;
 	}
+	public static void main() {
+		
+	}
 	
 
 }
